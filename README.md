@@ -53,6 +53,6 @@ A real-time face recognition attendance system built using Python. It uses the w
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/your-username/face-attendance.git
+git clone https://github.com/rk-005/face-attendance.git
 cd face-attendance
 
